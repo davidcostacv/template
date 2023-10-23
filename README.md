@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **David Costa**
 
-- GitHub: [@githubhandle](https://github.com/davidcostacv)
+- GitHub: [@davidcostacv](https://github.com/davidcostacv)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-costa-65516b248/)
 
 
