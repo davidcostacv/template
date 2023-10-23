@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Project
 
-> One paragraph statement about the project.
+> 
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+
 
 ## Built With
 
@@ -45,16 +45,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **David Costa**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/davidcostacv)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-costa-65516b248/)
 
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
